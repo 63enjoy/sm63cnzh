@@ -1,2 +1,2 @@
-# sm63cn_zh
-You can download sm63 Chinese version here.
+基本已放弃汉化。。。
+
